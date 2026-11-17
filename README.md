@@ -14,8 +14,8 @@ Tutto si salva da solo nel browser in uso (pagine, impostazioni, lavagne salvate
 | Dove | Pulsanti |
 |---|---|
 | In basso al centro | mano (sposta; con due dita zoom libero), zoom (cursore a comparsa), penna stilografica, evidenziatore, gomma, gomma del tratto, annulla, ripeti (a coppie, separate da uno spazio) |
-| Palmo | con il palmo appoggiato si cancella una fascia larga come il palmo (cerchio di 5 cm di raggio). Si disattiva nelle impostazioni; lì si indica anche la diagonale dello schermo, così i 5 cm sono corretti. Richiede che il browser comunichi la dimensione del contatto |
-| In basso a sinistra | inverti lati dei pulsanti, lavagne salvate, salva un'area, forme |
+| Palmo | con il palmo appoggiato si cancella una fascia larga come il palmo (la gomma è grande quanto il palmo, in base alla dimensione del contatto che il browser comunica). Si disattiva nelle impostazioni; lì si indica anche la diagonale dello schermo, così i 5 cm sono corretti. Richiede che il browser comunichi la dimensione del contatto |
+| In basso a sinistra | inverti lati dei pulsanti, lavagne salvate, salva un'area, forme, seleziona (sposta, duplica, elimina) |
 | In basso a destra | pagina precedente, numero pagina, pagina successiva, aggiungi pagina |
 | Colonna laterale | colori (bianco, nero, blu, verde, giallo, arancione, rosso, personalizzato da spettro visibile o esadecimale) e spessore a 10 livelli |
 | In alto a sinistra | impostazioni, guida, extra (calcolatrice, scientifica, collega telefono) |
