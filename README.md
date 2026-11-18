@@ -15,7 +15,7 @@ Tutto si salva da solo nel browser in uso (pagine, impostazioni, lavagne salvate
 |---|---|
 | In basso al centro | mano (sposta; con due dita zoom libero), zoom (cursore a comparsa), penna stilografica, evidenziatore, gomma, gomma del tratto, annulla, ripeti (a coppie, separate da uno spazio) |
 | Palmo | con il palmo appoggiato si cancella una fascia larga come il palmo (la gomma è grande quanto il palmo, in base alla dimensione del contatto che il browser comunica). Si disattiva nelle impostazioni; lì si indica anche la diagonale dello schermo, così i 5 cm sono corretti. Richiede che il browser comunichi la dimensione del contatto |
-| In basso a sinistra | inverti lati dei pulsanti, lavagne salvate, salva un'area, forme, seleziona (sposta, duplica, elimina) |
+| In basso a sinistra | inverti lati dei pulsanti, forme, seleziona (sposta, duplica, elimina; eliminando un riquadro si cancella anche la parte di immagine) |
 | In basso a destra | pagina precedente, numero pagina, pagina successiva, aggiungi pagina |
 | Colonna laterale | colori (bianco, nero, blu, verde, giallo, arancione, rosso, personalizzato da spettro visibile o esadecimale) e spessore a 10 livelli |
 | In alto a sinistra | impostazioni, guida, extra (calcolatrice, scientifica, collega telefono) |
@@ -54,3 +54,11 @@ Come funziona: i due dispositivi si «presentano» con brevi messaggi su [ntfy.s
 ## Versione
 
 1.0.0
+
+
+## Aggiornamento 18/11
+
+- Lo zoom (anche con due dita) funziona solo con il pulsante zoom attivo.
+- Extra contiene anche: carica immagine o PDF dal computer, lavagne salvate, salva area.
+- Per aprire i PDF senza internet copia `pdf.min.js` e `pdf.worker.min.js` (pdf.js 3.11.174) accanto a `index.html`: vengono usati al posto del CDN.
+- Impostazioni: nitidezza del tratto (3 livelli) e nome della rete Wi-Fi mostrato nel collegamento telefono.
